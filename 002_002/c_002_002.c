@@ -2,7 +2,7 @@
 
 float f_002_002(float a);
 
-float main()
+ int main()
 {
   float result_1 = f_002_002(3.46);
   printf("%f\n", result_1);
